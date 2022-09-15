@@ -1,3 +1,7 @@
+# Day #4 Challenge
+# Author: Naren
+# Date: 2022.9.15
+
 import random
 
 rock = '''
